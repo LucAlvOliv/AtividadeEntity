@@ -10,6 +10,7 @@
         <Button x:Name="btnSalvar" Content="Salvar" HorizontalAlignment="Left" Margin="584,273,0,0" VerticalAlignment="Top" Width="75" IsDefault="True"/>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="182,234,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="182,63,0,0" TextWrapping="Wrap" Text="Eita" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="584,86,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
